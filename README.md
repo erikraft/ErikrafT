@@ -11,9 +11,8 @@
 
 ---
 
-### ⚙️ Ferramentas que eu uso:
+### ⚙️ Algumas Ferramentas que eu uso:
 
-<details><summary>Veja as Ferramentas</summary>
 - [Squarespace](https://domains.squarespace.com/pt/)
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
@@ -23,7 +22,6 @@
 - [CSScompress](https://csscompressor.com/)
 - [Encycolorpedia](https://encycolorpedia.pt/)
 - [HoverCode](https://hovercode.com/)
-</details>
 
 ---
 
