@@ -13,7 +13,7 @@
 
 ### ⚙️ Algumas Ferramentas que eu uso:
 
-- [Squarespace](https://domains.squarespace.com/pt/)
+- [Squarespace Domains](https://domains.squarespace.com/pt/)
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
@@ -21,7 +21,7 @@
 - [JScompress](https://jscompress.com/)
 - [CSScompress](https://csscompressor.com/)
 - [Encycolorpedia](https://encycolorpedia.pt/)
-- [HoverCode](https://hovercode.com/)
+- [Hovercode](https://hovercode.com/)
 
 ---
 
