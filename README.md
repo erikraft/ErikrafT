@@ -1,4 +1,4 @@
-## 💻 Olá! Eu sou ErikrafT, um jovem programador! 🔥🚀  
+## 💻 Olá! Eu sou ErikrafT, um jovem programador!!! 🔥🚀  
 
 ---
 
@@ -8,6 +8,20 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="https://i.imgur.com/0QaH4zl.png">
 </div>
+
+---
+
+### ⚙️ Ferramentas que eu uso:
+
+- [Squarespace](https://domains.squarespace.com/pt/)
+- [Render](https://render.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [YAMLLINT](https://www.yamllint.com/)
+- [JScompress](https://jscompress.com/)
+- [CSScompress](https://csscompressor.com/)
+- [Encycolorpedia](https://encycolorpedia.pt/)
+- [HoverCode](https://hovercode.com/)
 
 ---
 
