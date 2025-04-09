@@ -1,4 +1,4 @@
-## 💻 Olá! Eu sou ErikrafT, um jovem programador!!! 🔥🚀  
+## 💻 Olá! Eu sou ErikrafT, um jovem Programador!!! 🔥🚀  
 
 ---
 
