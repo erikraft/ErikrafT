@@ -22,6 +22,7 @@
 - [CSScompress](https://csscompressor.com/)
 - [Encycolorpedia](https://encycolorpedia.pt/)
 - [Hovercode](https://hovercode.com/)
+- [Vector Paint](https://vectorpaint.yaks.co.nz/)
 
 ---
 
