@@ -40,3 +40,10 @@
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+---
+
+### 🔥 Visitantes do meu perfil:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=erikraft&color=blue" alt="Contador de visitas">
+</div>
