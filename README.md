@@ -7,11 +7,13 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="https://i.imgur.com/0QaH4zl.png">
+  <img align="center" alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
 </div>
 
 ---
 
-### ⚙️ Algumas Ferramentas que eu uso:
+### ⚙️ Algumas Ferramentas que eu uso
+<details><summary>👀｜Ver as Ferramentas</summary>
 
 - [Squarespace Domains](https://domains.squarespace.com/pt/)
 - [Render](https://render.com/)
@@ -22,7 +24,8 @@
 - [CSScompress](https://csscompressor.com/)
 - [Encycolorpedia](https://encycolorpedia.pt/)
 - [Hovercode](https://hovercode.com/)
-- [Vector Paint](https://vectorpaint.yaks.co.nz/)
+
+</details>
 
 ---
 
