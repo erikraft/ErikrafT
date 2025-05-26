@@ -7,8 +7,8 @@
 
 ### 💻 Tecnologias que uso !!!
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="./Images/Codes/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="./Images/Codes/css3-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="./Images/Codes/JavaScript.png">
   <img align="center" alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
 </div>
