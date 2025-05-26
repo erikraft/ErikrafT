@@ -1,4 +1,14 @@
+<div align="center">
+
+![Erik](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Erik%20Rodrigues&textBg=false)
+
+</div>
+
+<div align="center">
+
 ## 💻 Olá! Eu sou ErikrafT, um jovem Programador!!! 🔥🚀  
+
+</div>
 
 <br>
 <br>
