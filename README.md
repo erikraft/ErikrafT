@@ -75,7 +75,7 @@
 <br>
 
 ### 🔥 Visitantes do meu perfil !!!
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=erikraft&color=blue" alt="Contador de visitas">
 </div>
 
