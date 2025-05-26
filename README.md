@@ -1,8 +1,11 @@
 ## 💻 Olá! Eu sou ErikrafT, um jovem Programador!!! 🔥🚀  
 
+<br>
+<br>
+
 ---
 
-### 💻 Tecnologias que uso:
+### 💻 Tecnologias que uso !!!
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -12,7 +15,22 @@
 
 ---
 
-### ⚙️ Algumas Ferramentas que eu uso
+<br>
+
+<div align="center">
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=erikraft&theme=default&show_icons=true)](https://github.com/erikraft)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=erikraft&layout=compact)](https://github.com/erikraft)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### ⚙️ Algumas Ferramentas que eu uso !!!
 <details><summary>👀｜Ver as Ferramentas</summary>
 
 - [Squarespace Domains](https://domains.squarespace.com/pt/)
@@ -27,9 +45,13 @@
 
 </details>
 
+<br>
+
 ---
 
-### 📫 Como me encontrar:
+<br>
+
+### 📫 Como me encontrar???
 <div>  
   <a href="https://www.youtube.com/@ErikrafT" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -44,9 +66,19 @@
   </a>
 </div>
 
+<br>
+
 ---
 
-### 🔥 Visitantes do meu perfil:
+<br>
+
+### 🔥 Visitantes do meu perfil !!!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erikraft&color=blue" alt="Contador de visitas">
 </div>
+
+<br>
+
+---
+
+<br>
