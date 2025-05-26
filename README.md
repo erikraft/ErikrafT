@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 Tecnologias que uso !!!
+### 💻 Tecnologias que eu uso !!!
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
