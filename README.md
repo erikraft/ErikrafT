@@ -38,6 +38,8 @@
 <br>
 <br>
 
+<div align="center">
+
 ### ⚙️ Algumas Ferramentas que eu uso !!!
 <details><summary>👀｜Ver as Ferramentas</summary>
 
@@ -53,8 +55,12 @@
 
 </details>
 
+</div>
+
 <br>
 <br>
+
+<div align="center">
 
 ### 📫 Como me encontrar???
 <div>  
@@ -71,12 +77,18 @@
   </a>
 </div>
 
+</div>
+
 <br>
 <br>
+
+<div align="center">
 
 ### 🔥 Visitantes do meu perfil !!!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erikraft&color=blue" alt="Contador de visitas">
+</div>
+
 </div>
 
 <br>
