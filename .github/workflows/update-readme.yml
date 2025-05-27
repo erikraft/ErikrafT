@@ -1,12 +1,12 @@
 name: Atualiza idade no README
 
 permissions:
-  contents: write
+  contents: write   # Permissão para alterar arquivos no repo
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
   update-readme:
@@ -17,23 +17,37 @@ jobs:
       
       - name: Atualizar idade no README.md
         run: |
+          # Força fuso horário de Brasília
           export TZ="America/Sao_Paulo"
+
+          # Data de nascimento
           DATA_NASCIMENTO="2009-07-22"
+
+          # Data atual no fuso de SP
           HOJE=$(date +'%Y-%m-%d')
 
-          ANOS=$(( $(date -d "$HOJE" +%Y) - $(date -d "$DATA_NASCIMENTO" +%Y) ))
-          if [[ "$(date -d "$HOJE" +%m%d)" < "$(date -d "$DATA_NASCIMENTO" +%m%d)" ]]; then
+          ano_nasc=${DATA_NASCIMENTO:0:4}
+          mes_nasc=${DATA_NASCIMENTO:5:2}
+          dia_nasc=${DATA_NASCIMENTO:8:2}
+
+          ano_hoje=${HOJE:0:4}
+          mes_hoje=${HOJE:5:2}
+          dia_hoje=${HOJE:8:2}
+
+          ANOS=$((ano_hoje - ano_nasc))
+
+          if [ "$mes_hoje" -lt "$mes_nasc" ] || { [ "$mes_hoje" -eq "$mes_nasc" ] && [ "$dia_hoje" -lt "$dia_nasc" ]; }; then
             ANOS=$((ANOS - 1))
           fi
 
-          echo "Idade calculada: $ANOS anos"
-          sed -i "s/IDADE: XX/$ANOS/" README.md
+          echo "Hoje é $HOJE, aniversário em $mes_nasc/$dia_nasc, idade = $ANOS"
+
+          sed -i "s/IDADE: XX/$ANOS/g" README.md
 
       - name: Commit e Push
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || (git commit -m "Atualiza idade automaticamente no README" && git push)
+          git commit -m "Atualiza idade automaticamente no README" || echo "Nada para commitar"
+          git push
