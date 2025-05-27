@@ -57,9 +57,11 @@
 <br>
 
 ### 📫 Como me encontrar???
-<div>
-  <a href="https://www.youtube.com/@ErikrafT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><a href="https://discord.erikraft.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><a href="mailto:erikraft43@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ErikrafT)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikraft43@gmail.com)
+
 
 <br>
 <br>
