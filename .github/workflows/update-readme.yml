@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # roda todo dia à meia-noite no horário de Brasília (UTC+3)
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: '0 3 * * *'   # Roda todo dia às 00h no horário de Brasília (UTC+3)
+  workflow_dispatch:       # Permite executar manualmente
 
 jobs:
   update-readme:
@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: Checar código
         uses: actions/checkout@v3
+
+      - name: Mostrar trecho antes da atualização
+        run: |
+          echo "=== Antes ==="
+          grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md || echo "Não encontrado"
 
       - name: Atualizar idade no README.md
         run: |
@@ -38,8 +43,13 @@ jobs:
 
           echo "Hoje é $HOJE, aniversário em $dia_nasc/$mes_nasc, idade = $ANOS"
 
-          # Atualiza entre os marcadores <!--IDADE-->XX<!--/IDADE-->
+          # Substitui entre os marcadores
           sed -i -E "s/(<!--IDADE-->)[0-9]+(<!--\/IDADE-->)/\1$ANOS\2/" README.md
+
+      - name: Mostrar trecho depois da atualização
+        run: |
+          echo "=== Depois ==="
+          grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md || echo "Não encontrado"
 
       - name: Commit e Push
         run: |
