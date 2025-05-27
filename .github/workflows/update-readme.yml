@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # Roda todo dia às 00h no horário de Brasília (UTC+3)
-  workflow_dispatch:       # Permite executar manualmente
+    - cron: '0 3 * * *'   # Roda todo dia às 00:00 BRT (UTC-3) -> 03:00 UTC
+  workflow_dispatch:       # Permite rodar manualmente
 
 jobs:
   update-readme:
@@ -15,13 +15,10 @@ jobs:
       - name: Checar código
         uses: actions/checkout@v3
 
-      - name: Mostrar trecho antes da atualização
-        run: |
-          echo "=== Antes ==="
-          grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md || echo "Não encontrado"
-
       - name: Atualizar idade no README.md
+        id: update_age
         run: |
+          set -e
           export TZ="America/Sao_Paulo"
 
           DATA_NASCIMENTO="2009-07-22"
@@ -43,18 +40,39 @@ jobs:
 
           echo "Hoje é $HOJE, aniversário em $dia_nasc/$mes_nasc, idade = $ANOS"
 
-          # Substitui entre os marcadores
-          sed -i -E "s/(<!--IDADE-->)[0-9]+(<!--\/IDADE-->)/\1$ANOS\2/" README.md
+          # Verifica se marcador existe no README.md
+          if ! grep -q "<!--IDADE-->.*<!--/IDADE-->" README.md; then
+            echo "ERRO: Marcador <!--IDADE--> não encontrado no README.md"
+            exit 1
+          fi
 
-      - name: Mostrar trecho depois da atualização
+          # Substitui qualquer conteúdo entre os marcadores <!--IDADE--> ... <!--/IDADE-->
+          sed -i -E "s|(<!--IDADE-->)[^<]+(<!--/IDADE-->)|\1$ANOS\2|g" README.md
+
+          # Exporta a idade para usar na próxima etapa
+          echo "::set-output name=age::$ANOS"
+
+      - name: Mostrar trecho atualizado
         run: |
-          echo "=== Depois ==="
-          grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md || echo "Não encontrado"
+          grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md
+
+      - name: Verificar se houve mudanças no README.md
+        id: check_changes
+        run: |
+          if git diff --exit-code README.md; then
+            echo "Nenhuma mudança detectada."
+            exit 0
+          else
+            echo "Mudança detectada."
+            exit 1
+          fi
+        continue-on-error: true
 
       - name: Commit e Push
+        if: steps.check_changes.outcome == 'failure'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Atualiza idade automaticamente no README" || echo "Nada para commitar"
+          git commit -m "Atualiza idade automaticamente no README para ${{ steps.update_age.outputs.age }} anos"
           git push
