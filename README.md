@@ -13,10 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e de explorar o
 Estou animado para colaborar em projetos interessantes e desafiadores, e fazer parte da comunidade de desenvolvedores.
 
 ## Sobre
-Sou dev, tenho <!--IDADE-->ano<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, fiz meu primeiro site no [Blogger](https://www.blogger.com/).  
-Em 2022, com 12 anos, criei meu segundo site no [Google Sites](https://sites.google.com/).  
-Na época, não sabia que existia linguagem de programação, mas com o tempo fui aprendendo a usar `F12` (Inspecionar) e `Ctrl+U` (ver código-fonte no navegador).  
-Assim, descobri que havia uma linguagem de programação e hoje tenho <!--IDADE-->ano<!--/IDADE--> anos de idade!
+Sou dev, tenho <!--IDADE-->ano<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, fiz meu primeiro site no [Blogger](https://www.blogger.com/). Em 2022, com 12 anos, criei meu segundo site no [Google Sites](https://sites.google.com/). Na época, não sabia que existia linguagem de programação, mas com o tempo fui aprendendo a usar `F12` (Inspecionar) e `Ctrl+U` (ver código-fonte no navegador). Assim, descobri que havia uma linguagem de programação e hoje tenho <!--IDADE-->ano<!--/IDADE--> anos de idade!
 
 </div>
 
