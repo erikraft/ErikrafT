@@ -6,7 +6,11 @@
 
 <div align="center">
 
-## 💻 Olá! Eu sou ErikrafT, um jovem Programador!!! 🔥🚀  
+## 💻 Olá! Eu sou Erik, um jovem Programador!!!
+**Mas pode me chamar de _ErikrafT_**
+
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e de explorar o mundo do desenvolvimento de software.
+Estou animado para colaborar em projetos interessantes e desafiadores, e fazer parte da comunidade de desenvolvedores.
 
 </div>
 
