@@ -1,5 +1,8 @@
 name: Atualiza idade no README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'   # roda todo dia à meia-noite
