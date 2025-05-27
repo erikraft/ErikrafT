@@ -1,7 +1,7 @@
 name: Atualiza idade no README
 
 permissions:
-  contents: write   # Permissão para alterar arquivos no repo
+  contents: write
 
 on:
   schedule:
@@ -40,19 +40,16 @@ jobs:
 
           echo "Hoje é $HOJE, aniversário em $dia_nasc/$mes_nasc, idade = $ANOS"
 
-          # Verifica se marcador existe no README.md
           if ! grep -q "<!--IDADE-->.*<!--/IDADE-->" README.md; then
             echo "ERRO: Marcador <!--IDADE--> não encontrado no README.md"
             exit 1
           fi
 
-          # Substitui qualquer conteúdo entre os marcadores <!--IDADE--> ... <!--/IDADE-->
           sed -i -E "s|(<!--IDADE-->)[^<]+(<!--/IDADE-->)|\1$ANOS\2|g" README.md
 
-          # Exporta a idade para usar na próxima etapa
-          echo "::set-output name=age::$ANOS"
+          echo "age=$ANOS" >> $GITHUB_OUTPUT
 
-      - name: Mostrar trecho atualizado
+      - name: Mostrar trecho atualizado no README.md
         run: |
           grep -n "<!--IDADE-->.*<!--/IDADE-->" README.md
 
