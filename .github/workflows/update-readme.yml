@@ -17,16 +17,14 @@ jobs:
       
       - name: Atualizar idade no README.md
         run: |
-          # Força fuso horário de Brasília
+          # Fuso horário de Brasília
           export TZ="America/Sao_Paulo"
 
-          # Data de nascimento (formato YYYY-MM-DD)
+          # Sua data de nascimento
           DATA_NASCIMENTO="2009-07-22"
-
-          # Data de hoje no fuso de SP
           HOJE=$(date +'%Y-%m-%d')
 
-          # Extrai ano, mês e dia
+          # Extrai partes da data
           ano_nasc=${DATA_NASCIMENTO:0:4}
           mes_nasc=${DATA_NASCIMENTO:5:2}
           dia_nasc=${DATA_NASCIMENTO:8:2}
@@ -35,18 +33,16 @@ jobs:
           mes_hoje=${HOJE:5:2}
           dia_hoje=${HOJE:8:2}
 
-          # Cálculo básico de anos
+          # Cálculo correto da idade
           ANOS=$((ano_hoje - ano_nasc))
-
-          # Se ainda não passou o aniversário (mês/dia), subtrai 1
           if [ "$mes_hoje" -lt "$mes_nasc" ] || { [ "$mes_hoje" -eq "$mes_nasc" ] && [ "$dia_hoje" -lt "$dia_nasc" ]; }; then
             ANOS=$((ANOS - 1))
           fi
 
           echo "Hoje é $HOJE, aniversário em $mes_nasc/$dia_nasc, idade = $ANOS"
-
-          # Substitui todas as ocorrências de IDADE: XX pelo número calculado
-          sed -i "s/IDADE: XX/$ANOS/g" README.md
+          
+          # Atualiza todas as ocorrências no README.md
+          sed -i "s/IDADE: XX/IDADE: $ANOS/g" README.md
 
       - name: Commit e Push
         run: |
