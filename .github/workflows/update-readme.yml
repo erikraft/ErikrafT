@@ -1,8 +1,5 @@
 name: Atualiza idade no README
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: '0 0 * * *'   # roda todo dia à meia-noite
@@ -14,15 +11,28 @@ jobs:
     steps:
       - name: Checar código
         uses: actions/checkout@v3
-      
-      - name: Atualizar idade no README.md
+
+      - name: Atualizar idade no README.md com cálculo correto
         run: |
-          DATA_NASCIMENTO="2009-02-21"
+          DATA_NASCIMENTO="2009-07-22"
           HOJE=$(date +'%Y-%m-%d')
-          IDADE=$(($(date -d "$HOJE" +%s) - $(date -d "$DATA_NASCIMENTO" +%s)))
-          ANOS=$((IDADE / 31556952))
-          echo "Idade calculada: $ANOS anos"
-          sed -i "s/IDADE: XX/$ANOS/" README.md
+
+          ano_nasc=${DATA_NASCIMENTO:0:4}
+          mes_nasc=${DATA_NASCIMENTO:5:2}
+          dia_nasc=${DATA_NASCIMENTO:8:2}
+
+          ano_hoje=${HOJE:0:4}
+          mes_hoje=${HOJE:5:2}
+          dia_hoje=${HOJE:8:2}
+
+          idade=$((ano_hoje - ano_nasc))
+
+          if [ "$mes_hoje" -lt "$mes_nasc" ] || { [ "$mes_hoje" -eq "$mes_nasc" ] && [ "$dia_hoje" -lt "$dia_nasc" ]; }; then
+            idade=$((idade - 1))
+          fi
+
+          echo "Idade calculada: $idade anos"
+          sed -i "s/IDADE: XX/$idade/" README.md
 
       - name: Commit e Push
         run: |
