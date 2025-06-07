@@ -75,3 +75,14 @@ Sou dev, tenho <!--IDADE-->15<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 
 <br>
 <br>
+
+### 📂 Projetos
+
+[![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Bluetooth-Center&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Bluetooth-Center&Date)
+
+[📥 ErikrafT Drop](https://github.com/erikraft/Drop)
+
+[📶 Bluetooth Center](https://github.com/erikraft/Bluetooth-Center)
+
+<br>
+<br>
