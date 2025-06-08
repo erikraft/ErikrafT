@@ -87,7 +87,7 @@ Sou dev, tenho <!--IDADE-->15<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 <br>
 <br>
 
-## 📞 Support
+## 💰 Support
 <a href="https://ko-fi.com/erikraft" target="_blank">
 <img src="./Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
 </a>
