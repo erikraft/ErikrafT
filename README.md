@@ -31,6 +31,7 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
   <img align="center" alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="./Images/Codes/JavaScript.png">
   <img align="center" alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
+  <img align="center" alt="Python" height="40" width="40" src="./Images/Codes/python.png">
 </div>
 
 </div>
