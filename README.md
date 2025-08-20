@@ -56,6 +56,7 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
+- [Discloud](https://discloud.com/)
 - [YAMLLINT](https://www.yamllint.com/)
 - [JScompress](https://jscompress.com/)
 - [CSScompress](https://csscompressor.com/)
