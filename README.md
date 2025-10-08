@@ -25,7 +25,7 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 
 <div align="center">
   
-### 💻 Tecnologias que eu uso !!!
+### 💻 Tecnologias que eu uso!!!
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
@@ -49,7 +49,7 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 <br>
 <br>
 
-### ⚙️ Algumas Ferramentas que eu uso !!!
+### ⚙️ Algumas Ferramentas que eu uso!!!
 <details><summary>👀｜Ver as Ferramentas</summary>
 
 - [Squarespace Domains](https://domains.squarespace.com/pt/)
