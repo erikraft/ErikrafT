@@ -81,11 +81,19 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 
 ### 📂 Projetos
 
-[![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Bluetooth-Center&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Bluetooth-Center&Date)
+🙏 Thank you everyone's support :)
+
+<a href="https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date" />
+ </picture>
+</a>
 
 [📥 ErikrafT Drop](https://github.com/erikraft/Drop)
 
-[📶 Bluetooth Center](https://github.com/erikraft/Bluetooth-Center)
+[📥 ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
 
 <br>
 <br>
