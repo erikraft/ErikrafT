@@ -85,9 +85,9 @@ Sou dev, tenho <!--IDADE-->16<!--/IDADE--> anos. Quando tinha 11 anos, em 2021, 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date)
 
-[📥 ErikrafT Drop](https://github.com/erikraft/Drop)
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
-[📥 ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> <img src="https://developer.android.com/static/images/robot-tiny.png" width="20px" style="display:inline;"> [ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
 
 <br>
 <br>
