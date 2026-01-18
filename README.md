@@ -42,12 +42,12 @@ That is how I discovered that programming languages existed, and today I am <!--
   <!-- Frameworks & Libraries -->
   <b>Frameworks & Libraries</b><br>
 
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/React.svg" width="40" alt="React">
-  </a>
-
   <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
     <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Node.js.svg" width="40" alt="Node.js">
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/React.svg" width="40" alt="React">
   </a>
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
@@ -72,6 +72,10 @@ That is how I discovered that programming languages existed, and today I am <!--
 
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/GitHub.svg" width="40" alt="GitHub">
+  </a>
+
+  <a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Render.png" width="40" alt="Render">
   </a>
 
   <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
