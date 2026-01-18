@@ -4,8 +4,6 @@
 
 </div>
 
-<div align="center">
-
 ## 💻 Hello! I’m Erik, a young Programmer!!!
 **But you can call me _ErikrafT_**
 
@@ -15,35 +13,107 @@ I am excited to collaborate on interesting and challenging projects and to be pa
 <br>
 <br>
 
+---
+
 ## About
 I am a developer and I am <!--IDADE-->16<!--/IDADE--> years old. When I was 11, in 2021, I created my first website on [Blogger](https://www.blogger.com/).  
 In 2022, at the age of 12, I created my second website on [Google Sites](https://sites.google.com/).  
 At that time, I did not know that programming languages existed, but over time I learned to use `F12` (Inspect) and `Ctrl+U` (view page source in the browser).  
 That is how I discovered that programming languages existed, and today I am <!--IDADE-->16<!--/IDADE--> years old!
 
-</div>
+---
 
 <br>
 <br>
 
 <div align="center">
   
-### 💻 Technologies I use!!!
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="./Images/Codes/JavaScript.png">
-  <img align="center" alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
-  <img align="center" alt="Python" height="40" width="40" src="./Images/Codes/python.png">
-</div>
+## 🛠️ Languages & Technologies
 
-</div>
+  <!-- Programming Languages -->
+  <b>Programming Languages</b><br>
+  <img alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
+  <img alt="JavaScript" height="40" width="40" src="./Images/Codes/JavaScript.png">
+  <img alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
+  <img alt="Python" height="40" width="40" src="./Images/Codes/python.png">
+  <br><br>
+
+  <!-- Frameworks & Libraries -->
+  <b>Frameworks & Libraries</b><br>
+
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/React.svg" width="40" alt="React">
+  </a>
+
+  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Node.js.svg" width="40" alt="Node.js">
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Bootstrap.svg" width="40" alt="Bootstrap">
+  </a>
+  <br><br>
+
+  <!-- Databases -->
+  <b>Databases</b><br>
+
+  <a href="https://shardcloud.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Databases/ShardCloud.png" width="40" alt="Shard Cloud">
+  </a>
+  <br><br>
+
+  <!-- Tools & Deployment -->
+  <b>Tools & Deployment</b><br>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Git.svg" width="40" alt="Git">
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/GitHub.svg" width="40" alt="GitHub">
+  </a>
+
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Vercel.svg" width="40" alt="Vercel">
+  </a>
+
+  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Netlify.ico" width="40" alt="Netlify">
+  </a>
+
+  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_10.png" width="40" alt="Windows 10">
+  </a>
+
+  <a href="https://www.microsoft.com/windows/windows-11" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_11.png" width="40" alt="Windows 11">
+  </a>
+
+  <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/LinuxMint.png" width="40" alt="Linux Mint">
+  </a>
+
+  <a href="https://windsurf.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windsurf.png" width="40" alt="Windsurf AI">
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/VS_Code.png" width="40" alt="VS Code">
+  </a>
+  <br><br>
+
+  <!-- Design & Productivity -->
+  <b>Design & Productivity</b><br>
+  <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Photoshop.png" width="40" alt="Photoshop">
+  <img src="./Images/Languages_and_Technologies/Design_and_Productivity/illustrator.png" width="40" alt="Illustrator">
+  <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Photopea.png" width="40" alt="Photopea">
+  <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Vectorpea.png" width="40" alt="Vectorpea">
+  <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Canva.png" width="40" alt="Canva">
 
 <br>
 <br>
 
-<div align="center">
-  
   [![card](https://github-readme-stats.vercel.app/api?username=erikraft&theme=default&show_icons=true)](https://github.com/erikraft)
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=erikraft&layout=compact)](https://github.com/erikraft)
 
@@ -55,10 +125,12 @@ That is how I discovered that programming languages existed, and today I am <!--
 ### ⚙️ Some tools I use!!!
 <details><summary>👀｜View the tools</summary>
 
+- [Cloudflare](https://www.cloudflare.com/)
 - [Squarespace Domains](https://domains.squarespace.com/pt/)
 - [Render](https://render.com/)
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
+- [Shard Cloud](https://shardcloud.app/)
 - [Discloud](https://discloud.com/)
 - [YAMLLINT](https://www.yamllint.com/)
 - [JScompress](https://jscompress.com/)
