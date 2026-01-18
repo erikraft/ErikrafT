@@ -24,14 +24,30 @@ That is how I discovered that programming languages existed, and today I am <!--
   
 ## 🛠️ Languages & Technologies
 
-  <!-- Programming Languages -->
-  <b>Programming Languages</b><br>
-  <img alt="HTML" height="40" width="40" src="./Images/Codes/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="./Images/Codes/css3-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="./Images/Codes/JavaScript.png">
-  <img alt="TypeScript" height="40" width="40" src="./Images/Codes/TypeScript.png">
-  <img alt="Python" height="40" width="40" src="./Images/Codes/python.png">
-  <br><br>
+<!-- Programming Languages -->
+<b>Programming Languages</b><br>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Codes/html5-original.svg" width="40" height="40" alt="HTML">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Codes/css3-original.svg" width="40" height="40" alt="CSS">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Codes/JavaScript.png" width="40" height="40" alt="JavaScript">
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Codes/TypeScript.png" width="40" height="40" alt="TypeScript">
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Codes/python.png" width="40" height="40" alt="Python">
+</a>
+
+<br><br>
 
   <!-- Frameworks & Libraries -->
   <b>Frameworks & Libraries</b><br>
@@ -101,13 +117,28 @@ That is how I discovered that programming languages existed, and today I am <!--
   </a>
   <br><br>
 
-  <!-- Design & Productivity -->
-  <b>Design & Productivity</b><br>
+<!-- Design & Productivity -->
+<b>Design & Productivity</b><br>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Photoshop.png" width="40" alt="Photoshop">
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/illustrator.png" width="40" alt="Illustrator">
+</a>
+
+<a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Photopea.png" width="40" alt="Photopea">
+</a>
+
+<a href="https://www.vectorpea.com/" target="_blank" rel="noopener noreferrer">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Vectorpea.png" width="40" alt="Vectorpea">
+</a>
+
+<a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Canva.png" width="40" alt="Canva">
+</a>
 
 ---
 
