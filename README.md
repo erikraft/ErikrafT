@@ -10,9 +10,6 @@
 Welcome to my GitHub profile! I am passionate about technology and exploring the world of software development.
 I am excited to collaborate on interesting and challenging projects and to be part of the developer community.
 
-<br>
-<br>
-
 ---
 
 ## About
@@ -22,9 +19,6 @@ At that time, I did not know that programming languages existed, but over time I
 That is how I discovered that programming languages existed, and today I am <!--IDADE-->16<!--/IDADE--> years old!
 
 ---
-
-<br>
-<br>
 
 <div align="center">
   
@@ -115,18 +109,18 @@ That is how I discovered that programming languages existed, and today I am <!--
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Vectorpea.png" width="40" alt="Vectorpea">
   <img src="./Images/Languages_and_Technologies/Design_and_Productivity/Canva.png" width="40" alt="Canva">
 
-<br>
-<br>
+---
+
+## 📈 Data and activities
 
   [![card](https://github-readme-stats.vercel.app/api?username=erikraft&theme=default&show_icons=true)](https://github.com/erikraft)
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=erikraft&layout=compact)](https://github.com/erikraft)
 
 </div>
+  
+---
 
-<br>
-<br>
-
-### ⚙️ Some tools I use!!!
+## ⚙️ Some tools I use!!!
 <details><summary>👀｜View the tools</summary>
 
 - [Cloudflare](https://www.cloudflare.com/)
@@ -144,18 +138,16 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 </details>
 
-<br>
-<br>
+---
 
-### 📫 How to find me???
+## 📫 How to find me???
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ErikrafT)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikraft.yt/)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
 
-<br>
-<br>
+---
 
 ## 📂 Projects
 
@@ -171,15 +163,19 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 [![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date)
 
-<br>
-<br>
+---
 
 ## 💰 Support
+
 <a href="https://ko-fi.com/erikraft" target="_blank">
 <img src="./Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
-</a>
+</a
+
 <br>
+
 Did you like my projects? Consider making a small contribution to help keep them active.
+
+---
 
 <br>
 <br>
