@@ -176,7 +176,7 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ## 📂 Projects
 
-<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> **Website:**
+<img src="./Images/link-solid.svg" width="14px" style="display:inline;"> **Website:**
 <br>
 <img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
