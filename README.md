@@ -25,29 +25,23 @@ That is how I discovered that programming languages existed, and today I am <!--
 ## 🛠️ Languages & Technologies
 
 <!-- Programming Languages -->
-<b>Programming Languages</b><br>
-
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-  <img src="./Images/Codes/html5-original.svg" width="40" height="40" alt="HTML">
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-  <img src="./Images/Codes/css3-original.svg" width="40" height="40" alt="CSS">
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img src="./Images/Codes/JavaScript.png" width="40" height="40" alt="JavaScript">
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img src="./Images/Codes/TypeScript.png" width="40" height="40" alt="TypeScript">
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-  <img src="./Images/Codes/python.png" width="40" height="40" alt="Python">
-</a>
-
-<br><br>
+  <b>Programming Languages</b><br>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Codes/html5-original.svg" width="40" height="40" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Codes/css3-original.svg" width="40" height="40" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Codes/JavaScript.png" width="40" height="40" alt="JavaScript">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Codes/TypeScript.png" width="40" height="40" alt="TypeScript">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="./Images/Codes/python.png" width="40" height="40" alt="Python">
+  </a>
+  <br><br>
 
   <!-- Frameworks & Libraries -->
   <b>Frameworks & Libraries</b><br>
