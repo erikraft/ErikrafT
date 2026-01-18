@@ -49,73 +49,76 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 <br><br>
 
-  <!-- Frameworks & Libraries -->
-  <b>Frameworks & Libraries</b><br>
+<!-- Frameworks & Libraries -->
+<b>Frameworks & Libraries</b><br>
 
-  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Node.js.svg" width="40" alt="Node.js">
-  </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Node.js.svg" width="40" alt="Node.js">
+</a>
 
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/React.svg" width="40" alt="React">
-  </a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/React.svg" width="40" alt="React">
+</a>
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Bootstrap.svg" width="40" alt="Bootstrap">
-  </a>
-  <br><br>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Frameworks_and_Libraries/Bootstrap.svg" width="40" alt="Bootstrap">
+</a>
 
-  <!-- Databases -->
-  <b>Databases</b><br>
+<br><br>
 
-  <a href="https://shardcloud.app/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Databases/ShardCloud.png" width="40" alt="Shard Cloud">
-  </a>
-  <br><br>
+<!-- Databases -->
+<b>Databases</b><br>
 
-  <!-- Tools & Deployment -->
-  <b>Tools & Deployment</b><br>
+<a href="https://shardcloud.app/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Databases/ShardCloud.png" width="40" alt="Shard Cloud">
+</a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Git.svg" width="40" alt="Git">
-  </a>
+<br><br>
 
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/GitHub.svg" width="40" alt="GitHub">
-  </a>
+<!-- Tools & Deployment -->
+<b>Tools & Deployment</b><br>
 
-  <a href="https://render.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Render.png" width="40" alt="Render">
-  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Git.svg" width="40" alt="Git">
+</a>
 
-  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Vercel.svg" width="40" alt="Vercel">
-  </a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/GitHub.svg" width="40" alt="GitHub">
+</a>
 
-  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Netlify.ico" width="40" alt="Netlify">
-  </a>
+<a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Render.png" width="40" alt="Render">
+</a>
 
-  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_10.png" width="40" alt="Windows 10">
-  </a>
+<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Vercel.svg" width="40" alt="Vercel">
+</a>
 
-  <a href="https://www.microsoft.com/windows/windows-11" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_11.png" width="40" alt="Windows 11">
-  </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Netlify.ico" width="40" alt="Netlify">
+</a>
 
-  <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/LinuxMint.png" width="40" alt="Linux Mint">
-  </a>
+<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_10.png" width="40" alt="Windows 10">
+</a>
 
-  <a href="https://windsurf.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windsurf.png" width="40" alt="Windsurf AI">
-  </a>
+<a href="https://www.microsoft.com/windows/windows-11" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windows_11.png" width="40" alt="Windows 11">
+</a>
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/VS_Code.png" width="40" alt="VS Code">
-  </a>
-  <br><br>
+<a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/LinuxMint.png" width="40" alt="Linux Mint">
+</a>
+
+<a href="https://windsurf.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/Windsurf.png" width="40" alt="Windsurf AI">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./Images/Languages_and_Technologies/Tools_and_Deployment/VS_Code.png" width="40" alt="VS Code">
+</a>
+
+<br><br>
 
 <!-- Design & Productivity -->
 <b>Design & Productivity</b><br>
