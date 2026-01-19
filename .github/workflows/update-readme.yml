@@ -6,14 +6,14 @@ permissions:
 on:
   schedule:
     - cron: '0 3 * * *'   # Roda todo dia às 00:00 BRT (UTC-3) -> 03:00 UTC
-  workflow_dispatch:       # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checar código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Atualizar idade no README.md
         id: update_age
@@ -57,19 +57,36 @@ jobs:
         id: check_changes
         run: |
           if git diff --exit-code README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
             echo "Nenhuma mudança detectada."
-            exit 0
           else
+            echo "changed=true" >> $GITHUB_OUTPUT
             echo "Mudança detectada."
-            exit 1
           fi
-        continue-on-error: true
 
-      - name: Commit e Push
-        if: steps.check_changes.outcome == 'failure'
+      # Commit normal quando a idade muda
+      - name: Commit da idade
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Atualiza idade automaticamente no README para ${{ steps.update_age.outputs.age }} anos"
+          git commit -m "✨｜Automatically updates age in the README to ${{ steps.update_age.outputs.age }} years"
           git push
+
+      # Keep-alive: commit vazio no dia 1 de cada mês
+      - name: Keep-alive mensal (commit vazio)
+        if: steps.check_changes.outputs.changed == 'false'
+        run: |
+          DIA=$(date +'%d')
+
+          if [ "$DIA" = "01" ]; then
+            echo "Executando keep-alive mensal..."
+
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m "chore: keep workflows alive"
+            git push
+          else
+            echo "Hoje não é dia 01 — keep-alive ignorado."
+          fi
