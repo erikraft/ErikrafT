@@ -1,6 +1,6 @@
 <div align="center">
 
-![Erik](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Erik%20Rodrigues&textBg=false)
+![Erik](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Erik%20Rodrigues%20Balisa&textBg=false)
 
 </div>
 
