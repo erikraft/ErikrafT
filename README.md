@@ -22,6 +22,25 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ---
 
+## 🎓｜Education
+
+**ETEC – Escola Técnica Estadual de São Paulo**  
+*Technical High School – Systems Analysis and Development*  
+📅 Feb 2026 – Dec 2028  
+
+- Studying programming logic, web development, and Android app development (Java).  
+- Building personal projects with HTML, CSS, JavaScript, and mobile applications.  
+- Focus on modern web and mobile technologies, UI design, and software fundamentals.
+
+**E.E. Carmen Miranda**  
+*High School – General Education*  
+📅 Feb 2025 – Dec 2025  
+
+- Completed the 1st year of high school with a focus on general education.  
+- Developed skills in teamwork, organization, and digital tools for school projects.
+
+---
+
 <div align="center">
   
 ## 🛠️｜Languages & Technologies
