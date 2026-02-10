@@ -124,8 +124,6 @@ Did you like my projects? Consider making a small contribution to help keep them
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02C931&width=435&lines=Programming+is+for+Everyone!)](https://git.io/typing-svg)
 
-<br>
-
 “No matter who you are — man, woman, young or teenager — wisdom has no age or limits.” — Erik Rodrigues Balisa
 
 <br>
