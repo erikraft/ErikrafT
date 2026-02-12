@@ -90,10 +90,13 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ## 📫｜How to find me???
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ErikrafT)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik.developer)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikraft.yt/)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
+[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-logo&logoColor=white)](https://www.youtube.com/@ErikrafT)&nbsp;
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik.developer)&nbsp;
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikraft.yt/)&nbsp;
+[![Threads](https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@erik.developer)&nbsp;
+[![Threads](https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@erikraft.yt)&nbsp;
+[![Discord](https://custom-icon-badges.demolab.com/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
+[![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-333333?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
 
 ---
 
