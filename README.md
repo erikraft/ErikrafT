@@ -57,6 +57,11 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ## 📈｜Data and activities
 
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=erikraft&show_icons=true&theme=tokyonight&hide_rank=true" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erikraft&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=erikraft&theme=yellowdark)](https://git.io/streak-stats)
 
 ---
