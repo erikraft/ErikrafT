@@ -13,6 +13,7 @@
 
 Welcome to my GitHub profile! I am passionate about technology and exploring the world of software development.
 I am excited to collaborate on interesting and challenging projects and to be part of the developer community.
+If you want to see more, check out my portfolio: https://portfolio.erikraft.com/
 
 ---
 
