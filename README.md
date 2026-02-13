@@ -67,6 +67,18 @@ That is how I discovered that programming languages existed, and today I am <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=erikraft&theme=yellowdark)](https://git.io/streak-stats)
 
 ---
+## 🏆｜GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
+    <img
+      width="800"
+      src="https://github-profile-trophy-silk-six.vercel.app/?username=erikraft&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
 
 ## ⚙️｜Some tools I use!!!
 <details><summary>👀｜View the tools</summary>
