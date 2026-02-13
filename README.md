@@ -79,6 +79,7 @@ That is how I discovered that programming languages existed, and today I am <!--
   </a>
 </p>
 
+</div>
 
 ## ⚙️｜Some tools I use!!!
 <details><summary>👀｜View the tools</summary>
@@ -98,6 +99,8 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 </details>
 
+<div align="center">
+
 ---
 
 ## 📫｜How to find me???
@@ -110,15 +113,18 @@ That is how I discovered that programming languages existed, and today I am <!--
 [![Discord](https://custom-icon-badges.demolab.com/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
 [![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-333333?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
 
+</div>
+
 ---
 
 ## 📂｜Projects
+<details><summary>📂｜Projects on Github</summary>
 
-<img src="./Images/link-solid.svg" width="14px" style="display:inline;">｜**Website:**
+<img src="./Images/link-solid.svg" width="14px" style="display:inline;">｜**General Repository on Github:**
 <br>
 <img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
-<img src="https://developer.android.com/static/images/robot-tiny.png" width="20px" style="display:inline;">｜**Android application:**
+<img src="https://developer.android.com/static/images/robot-tiny.png" width="20px" style="display:inline;">｜**Android app in the Github repository:**
 <br>
 <img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
 
@@ -126,7 +132,11 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 [![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date)
 
+</details>
+
 ---
+
+<div align="center">
 
 ## 💰｜Support
 
@@ -147,6 +157,8 @@ Did you like my projects? Consider making a small contribution to help keep them
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02C931&width=435&lines=Programming+is+for+Everyone!)](https://git.io/typing-svg)
 
 “No matter who you are — man, woman, young or teenager — wisdom has no age or limits.” — Erik Rodrigues Balisa
+
+</div>
 
 <br>
 <br>
