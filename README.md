@@ -106,13 +106,13 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ## 📫｜How to find me???
 
+[![WhatsApp](https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp3&logoColor=FFFFFF)](https://wa.me/5513997353191?text=Ol%C3%A1,%20vim%20pelo%20seu%20GitHub%20https://github.com/erikraft%20e%20quero%20mais%20informa%C3%A7%C3%B5es)&nbsp;
+[![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-333333?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
 [![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-logo&logoColor=white)](https://www.youtube.com/@ErikrafT)&nbsp;
 [![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik.developer)&nbsp;
 [![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikraft.yt/)&nbsp;
 [![Threads](https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@erik.developer)&nbsp;
 [![Threads](https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@erikraft.yt)&nbsp;
-[![Discord](https://custom-icon-badges.demolab.com/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.erikraft.com/)&nbsp;
-[![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-333333?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
 
 </div>
 
