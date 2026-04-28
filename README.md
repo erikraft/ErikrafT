@@ -113,7 +113,7 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 ## 📫｜How to find me???
 
-[![WhatsApp](https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp3&logoColor=FFFFFF)](https://wa.me/5513997353191?text=Ol%C3%A1,%20vim%20pelo%20seu%20GitHub%20https://github.com/erikraft%20e%20quero%20mais%20informa%C3%A7%C3%B5es)&nbsp;
+[![WhatsApp](https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp3&logoColor=FFFFFF)](https://wa.me/5511925416678?text=Ol%C3%A1,%20vim%20pelo%20seu%20GitHub%20https://github.com/erikraft%20e%20quero%20mais%20informa%C3%A7%C3%B5es)&nbsp;
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/erikraft/)&nbsp;
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erikraft)&nbsp;
 [![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-333333?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact+github@erikraft.com)&nbsp;
