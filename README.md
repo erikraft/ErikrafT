@@ -3,7 +3,7 @@
 ![Erik](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Erik%20Rodrigues%20Balisa&textBg=false)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02C931&width=435&lines=Hello%2C+I'm+ErikrafT!+;BE+WELCOME!;Back-End+%26+Full-Stack+Developer!;My+real+name+is+Erik!;Check+out+my+projects+on+GitHub!;Clean+code%2C+sharp+ideas!)](https://git.io/typing-svg)
 <br>
-![Followers](https://custom-icon-badges.demolab.com/github/followers/erikraft?style=social)
+<!-- ![Followers](https://custom-icon-badges.demolab.com/github/followers/erikraft?style=social) -->
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 Welcome to my GitHub profile! I am passionate about technology and exploring the world of software development.
 I am excited to collaborate on interesting and challenging projects and to be part of the developer community.
-<!-- If you want to see more, check out my portfolio: https://portfolio.erikraft.com/ -->
+If you want to see more, check out my portfolio: https://portfolio.erikraft.com/
 
 ---
 
