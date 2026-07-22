@@ -25,10 +25,10 @@ If you want to see more, check out my portfolio: https://portfolio.erikraft.com/
 ---
 
 ## 📋｜About
-I am a developer and I am <!--IDADE-->16<!--/IDADE--> years old. When I was 11, in 2021, I created my first website on [Blogger](https://www.blogger.com/).  
+I am a developer and I am <!--IDADE-->17<!--/IDADE--> years old. When I was 11, in 2021, I created my first website on [Blogger](https://www.blogger.com/).  
 In 2022, at the age of 12, I created my second website on [Google Sites](https://sites.google.com/).  
 At that time, I did not know that programming languages existed, but over time I learned to use `F12` (Inspect) and `Ctrl+U` (view page source in the browser).  
-That is how I discovered that programming languages existed, and today I am <!--IDADE-->16<!--/IDADE--> years old!
+That is how I discovered that programming languages existed, and today I am <!--IDADE-->17<!--/IDADE--> years old!
 
 ---
 
