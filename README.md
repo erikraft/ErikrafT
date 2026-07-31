@@ -138,11 +138,11 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 <img src="./Images/link-solid.svg" width="14px" style="display:inline;">｜**General Repository on Github:**
 <br>
-<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop™](https://github.com/erikraft/Drop)
 
 <img src="https://developer.android.com/static/images/robot-tiny.png" width="20px" style="display:inline;">｜**Android app in the Github repository:**
 <br>
-<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop™ Android](https://github.com/erikraft/Drop-Android)
 
 🙏 Thank you for everyone’s support :)
 
