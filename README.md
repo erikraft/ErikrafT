@@ -8,10 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erikraft/">
-    <img src="./Images/Erik_Dev_1.png" alt="Erik Developer" width="150" height="150">
-  </a>
-  <a href="https://github.com/erikraft/">
-    <img src="./Images/Erik_Dev_2.png" alt="Erik Developer" width="150" height="150">
+    <img src="./Images/me.png" alt="Erik Developer" width="155" height="155">
   </a>
 </div>
 
