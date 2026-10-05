@@ -72,10 +72,6 @@ That is how I discovered that programming languages existed, and today I am <!--
 <!-- Streak — updates daily -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=erikraft&theme=yellowdark)](https://git.io/streak-stats)
 
-<!-- Contribution graph — updates on every commit -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikraft&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=6EE7B7&hide_border=true" alt="Contribution Graph"/>
-
-
 ---
 ## 🏆｜GitHub Profile Trophy
 
