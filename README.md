@@ -139,7 +139,13 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 🙏 Thank you for everyone’s support :)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date)
+<a href="https://www.star-history.com/?repos=erikraft%2Fdrop%2Cerikraft%2Fdrop-android%2Cerikraft%2Fisearch-cli%2Cerikraft%2Fai&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=erikraft/drop%2Cerikraft/drop-android%2Cerikraft/isearch-cli%2Cerikraft/ai&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=erikraft/drop%2Cerikraft/drop-android%2Cerikraft/isearch-cli%2Cerikraft/ai&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=erikraft/drop%2Cerikraft/drop-android%2Cerikraft/isearch-cli%2Cerikraft/ai&type=date&legend=top-left" />
+ </picture>
+</a>
 
 </details>
 
