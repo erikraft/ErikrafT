@@ -70,7 +70,7 @@ That is how I discovered that programming languages existed, and today I am <!--
 </p>
 
 <!-- Streak — updates daily -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=erikraft&theme=yellowdark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 ## 🏆｜GitHub Profile Trophy
