@@ -106,9 +106,9 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 </details>
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 ## 📫｜How to find me???
 
@@ -125,6 +125,8 @@ That is how I discovered that programming languages existed, and today I am <!--
 </div>
 
 ---
+
+<div align="center">
 
 ## 📂｜Projects
 <details><summary>📂｜Projects on Github</summary>
@@ -147,6 +149,7 @@ That is how I discovered that programming languages existed, and today I am <!--
  </picture>
 </a>
 
+</div>
 </details>
 
 ---
@@ -157,17 +160,39 @@ That is how I discovered that programming languages existed, and today I am <!--
 
 <a href="https://ko-fi.com/erikraft" target="_blank">
 <img src="./Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
-</a
+</a>
 
 <br>
 
 Did you like my projects? Consider making a small contribution to help keep them active.
 
+</div>
+
 ---
+
+<div align="center">
+
+## 🗃️｜Contributions
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erikraft/ErikrafT/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erikraft/ErikrafT/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erikraft/ErikrafT/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
 
 [![BackToTop](./Images/BACK_TO_TOP.svg)](#top)
 
+</div>
+
 ---
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02C931&width=435&lines=Programming+is+for+Everyone!)](https://git.io/typing-svg)
 
